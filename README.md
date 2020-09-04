@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love to play Dota2,Mobile Legends and to travel.
 
 ### Spotify Playing
-[<img src="https://spotiy-player.fhoward.vercel.app/api/spotify" alt="IKAW LUNGS SAPAT NA" widt="350" />]
+[<img src="https://spotiy-player.fhoward.vercel.app/api/spotify" alt="IKAW LUNGS SAPAT NA" widt="350" />](https://open.spotify.com/user/12147604850)
 
 ### Connect with me:
 
