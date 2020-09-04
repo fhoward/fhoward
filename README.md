@@ -70,6 +70,8 @@
 
   <img align="left" alt="fhoward Git Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fhoward&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
 
+  <img align="left" alt="fhoward Git Stats" src="ihttps://github-readme-stats.vercel.app/api/top-langs/?username=fhoward&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+
 </details>
 
 ---
