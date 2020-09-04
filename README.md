@@ -40,9 +40,6 @@
 
 <br />
 <br />
-
-<img align="left" alt="fhoward Git Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhoward&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-
 ---
 
 ### 📺 Latest YouTube Videos
@@ -67,19 +64,28 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="fhoward Git Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fhoward&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
-
-</details>
-
----
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+---
+
+### :zap: Github Stats
+
+  <img align="left" alt="fhoward Git Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fhoward&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
+
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+
+  <img align="left" alt="fhoward Git Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhoward&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
 [credits_mlw]: https://credits.mylegalwhiz.com
 [website]: https://fhoward.github.io/fhoward-cv/
@@ -94,5 +100,3 @@
 [lang]: programming_language
 [pm]: package_manager
 [js]: javascript_library
-
-# fhoward
