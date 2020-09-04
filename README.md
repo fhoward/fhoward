@@ -41,11 +41,14 @@
 <br />
 <br />
 
+<img align="left" alt="fhoward Git Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhoward&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+
 ---
 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Mobile Legends: Bang Bang](https://www.youtube.com/watch?v=NvyXka6mWPw)
 - [All of me(Music cover video)](https://www.youtube.com/watch?v=qOH1eMA0M3Q)
 <!-- YOUTUBE:END -->
@@ -68,8 +71,6 @@
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="fhoward Git Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fhoward&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
-
-  <img align="left" alt="fhoward Git Stats" src="ihttps://github-readme-stats.vercel.app/api/top-langs/?username=fhoward&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
 </details>
 
