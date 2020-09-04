@@ -46,6 +46,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Mobile Legends: Bang Bang](https://www.youtube.com/watch?v=NvyXka6mWPw)
 - [All of me(Music cover video)](https://www.youtube.com/watch?v=qOH1eMA0M3Q)
 <!-- YOUTUBE:END -->
@@ -70,6 +71,13 @@
   <img align="left" alt="fhoward Git Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fhoward&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
 
 </details>
+
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 [credits_mlw]: https://credits.mylegalwhiz.com
 [website]: https://fhoward.github.io/fhoward-cv/
