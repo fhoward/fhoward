@@ -10,6 +10,9 @@
 - 🥅 2020 Goals: Make a Website for my contents
 - ⚡ Fun fact: I love to play Dota2,Mobile Legends and to travel.
 
+### Spotify Playing
+[<img src="https://spotiy-player.fhoward.vercel.app/api/spotify" alt="IKAW LUNGS SAPAT NA" widt="350" />]
+
 ### Connect with me:
 
 [<img align="left" alt="fhoward | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
