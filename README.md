@@ -5,7 +5,8 @@
 
 ## I'm a Developer, and Soon to be Blogger!
 
-- 🔭 I’m currently working on a [Thincoffice Website][credits_mlw]!
+- 🔭 I'm currently working on a [Iripple Incorporated][https://www.iripple.com/]!
+- 🔭 I've worked on a [Thincoffice Website][credits_mlw]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Make a Website for my contents
 - ⚡ Fun fact: I love to play Dota2,Mobile Legends and to travel.
