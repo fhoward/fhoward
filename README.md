@@ -5,7 +5,7 @@
 
 ## I'm a Developer, and Soon to be Blogger!
 
-- 🔭 I'm currently working on a [Iripple Incorporated][https://www.iripple.com/]!
+- 🔭 I'm currently working on a [Iripple Incorporated][iripple_web]!
 - 🔭 I've worked on a [Thincoffice Website][credits_mlw]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Make a Website for my contents
@@ -93,6 +93,7 @@
   <img align="left" alt="fhoward Git Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhoward&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
 [credits_mlw]: https://credits.mylegalwhiz.com
+[iripple_web]: https://www.iripple.com
 [website]: https://fhoward.github.io/fhoward-cv/
 [twitter]: https://twitter.com/francishoward28
 [youtube]: https://www.youtube.com/channel/UCjH5q_5z53Mca2X8w8Pb5qg
